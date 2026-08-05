@@ -1,5 +1,6 @@
 // Connect to the device's BLE service called as "UART service" (can be edited in below code) and send serial data over an app like "Serial Bluetooth Terminal". It can downloaded from Playstore
-
+// After enabling Bluetooth in your device, open Serial Bluetooth Terminal app, go to Devices - Scan and connect to "UART service". Once connected, you will see incoming TX values on the app. You can also type to 
+// send values to the ESP32 board which can be viewed on your Arduino serial terminal.
 /*
     Video: https://www.youtube.com/watch?v=oCMOYS71NIU
     Based on Neil Kolban example for IDF: https://github.com/nkolban/esp32-snippets/blob/master/cpp_utils/tests/BLE%20Tests/SampleNotify.cpp
