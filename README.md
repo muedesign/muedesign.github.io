@@ -33,6 +33,6 @@ Arduino IDE programming
 4. Upload the code and start working with the board.
 
 
-**Note: For serial communication, under "Tools-USB CDC On Boot:", keep it "Enabled" **
+**Note: For serial communication in Arduino IDE, under "Tools-USB CDC On Boot:" keep it "Enabled"**
 
 
