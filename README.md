@@ -1,5 +1,4 @@
-# muedesign.github.io
-Documentation for "mudesign" Mini Embedded Development Boards. 
+**Documentation for "mudesign" Mini Embedded Development Boards: **
 
 
 __µEC3 - ESP32-C3 Mini Development Board:__
