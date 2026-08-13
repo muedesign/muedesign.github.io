@@ -1,4 +1,5 @@
-**Documentation for "mudesign" Mini Embedded Development Boards: **
+
+__Documentation for "mudesign" Mini Embedded Development Boards:__
 
 
 __µEC3 - ESP32-C3 Mini Development Board:__
