@@ -18,7 +18,7 @@ Arduino IDE programming:
 2. Include the ESP board package link as given below in the “Additional board manager URL under File-Preferences”:
 “https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json”
 2. As next step, install the esp32 library from the “Tools-Board-Board Manager” by typing esp32 in the search box and choosing the latest library version.
-3. Once ESP32 library is installed, connect the development board and choose the “ESP32 C3 Dev Module or ESP32 S3 Dev Module” under “Tools – Board – esp32”. 
+3. Once ESP32 library is installed, connect the development board and choose the “ESP32 C3 Dev Module” under “Tools – Board – esp32”. 
 4. Upload the code and start working with the board.
 
 
